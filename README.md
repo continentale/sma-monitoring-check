@@ -2,7 +2,7 @@
 This check is the counterpart of the sma-monitoring-agent. With this check you can monitor the agent endpoints
 
 ## Usage
-
+```bash
 Usage of ./sma-monitoring-check:
   -critical string
     	The critical value. If its greater than or this value (default "0")
@@ -22,3 +22,4 @@ Usage of ./sma-monitoring-check:
     	The type for the request. Available types are: multicpu, cpu, disk, memory, service, process (default "inventory")
   -warning string
     	The warning value. If its greater than or this value its warning (default "0")
+```
