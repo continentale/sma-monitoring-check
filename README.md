@@ -1,4 +1,7 @@
 # sma-monitoring-check
+DEPRECATED: this agent is deprecated and will no longer be maintained. please follow the new agent on https://github.com/continentale/monitoring-agent
+
+
 This check is the counterpart of the sma-monitoring-agent. With this check you can monitor the agent endpoints
 
 ## Usage
